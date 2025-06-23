@@ -11,7 +11,7 @@ To install and configure Active Directory Domain Services (AD DS) on the Windows
 
 ### Screenshot:
 *The Server Manager dashboard showing that the AD DS and DNS roles are installed and running correctly.*
-![Server Manager Dashboard]()
+![Server Manager Dashboard](Server-Manager-Dashboard.png)
 
 ### Challenges & Learnings:
 A key learning was the importance of setting a static IP address on the server *before* promoting it to a Domain Controller. The process also clarified the difference between installing a "role" (the software) and configuring it by "promoting" the server (the setup).
